@@ -2,7 +2,7 @@
 
 :raising_hand:	I'm a data scientist currently working in the SF Bay Area at a health tech startup.<br> 
 :round_pushpin:	I'm originally from Toronto, Canada and desperately miss ketchup chips and Tim Hortons coffee.<br>
-:dog2:	I have a dog named Finn somehow who has the personality of an old man at 2 years old.
+:dog2:	I have a dog named Finn who somehow has the personality of an old man at 2 years old.
 <!---:student:	I'm a student at the University of Colorado Boulder getting a masters in data science.--->
 
 ## Current hobbies

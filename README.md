@@ -1,14 +1,14 @@
-# Hi, I'm Lianne 👋
+# hi, i'm lianne 👋
 
-:raising_hand:	I'm a data scientist currently working in the SF Bay Area at a health tech startup.<br> 
+:raising_hand:	I'm a data scientist working in the SF Bay Area in gaming security.<br> 
 :round_pushpin:	I'm originally from Toronto, Canada and desperately miss ketchup chips and Tim Hortons coffee.<br>
-:dog2:	I have a dog named Finn who somehow has the personality of an old man at 2 years old.
+:mortar_board:  I'm currently doing my masters in data science at the University of Colorado Boulder.
 <!---:student:	I'm a student at the University of Colorado Boulder getting a masters in data science.--->
 
 ## Current hobbies
-:bread:  Baking sourdough bread<br>
-:bricks:	Building Lego sets <br>
-:musical_keyboard:	Learning the intro song from 'Up' on piano
+:bread:  Baking mounds and mounds of focaccia <br>
+:christmas_tree:  Streaming as much Christmas music as possible <br>
+:bricks:	Building all the Lego sets
 
 
 ## Get in touch
